@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "fast-xml-parser": "^4.3.2",
+    "xml2js": "^0.6.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "name": "bc2023-4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

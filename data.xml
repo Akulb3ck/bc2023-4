@@ -1,0 +1,4995 @@
+<?xml version="1.0" encoding="UTF-8"?><indicators>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>08</mcrd081>
+    <ku>21</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>7.1</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>08</mcrd081>
+    <ku>22</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>6.5</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>08</mcrd081>
+    <ku>23</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>7.5</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>08</mcrd081>
+    <ku>25</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>7.9</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>08</mcrd081>
+    <ku>24</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>12.3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>08</mcrd081>
+    <ku>26</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>7.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>08</mcrd081>
+    <mcrk110>NULL</mcrk110>
+    <tzep>PCCP_</tzep>
+    <value>5.2</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>08</mcrd081>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>7.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>05</mcrd081>
+    <ku>1</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>-5.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>05</mcrd081>
+    <ku>2</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>1.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>05</mcrd081>
+    <ku>3</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>2.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>05</mcrd081>
+    <ku>4</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>6.1</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>05</mcrd081>
+    <ku>5</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>0.3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>05</mcrd081>
+    <ku>6</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>4.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>05</mcrd081>
+    <ku>7</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>0.5</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>05</mcrd081>
+    <ku>8</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>5.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>05</mcrd081>
+    <ku>9</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>6.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>05</mcrd081>
+    <ku>10</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>1.1</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>05</mcrd081>
+    <ku>12</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>4.7</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>05</mcrd081>
+    <ku>13</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>4.3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>05</mcrd081>
+    <ku>14</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>5.3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>05</mcrd081>
+    <ku>15</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>3.2</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>05</mcrd081>
+    <ku>16</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>0</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>05</mcrd081>
+    <ku>17</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>6.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>05</mcrd081>
+    <ku>18</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>4.7</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>05</mcrd081>
+    <ku>19</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>2</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>05</mcrd081>
+    <ku>20</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>6.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>05</mcrd081>
+    <ku>21</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>2.2</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>05</mcrd081>
+    <ku>22</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>5.2</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>05</mcrd081>
+    <ku>23</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>6.3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>05</mcrd081>
+    <ku>25</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>3.7</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>05</mcrd081>
+    <ku>24</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>4.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>05</mcrd081>
+    <ku>26</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>6.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>05</mcrd081>
+    <mcrk110>NULL</mcrk110>
+    <tzep>PCCP_</tzep>
+    <value>2.9</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>05</mcrd081>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>4.2</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>10</mcrd081>
+    <ku>1</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>16.9</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>10</mcrd081>
+    <ku>2</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>9.7</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>10</mcrd081>
+    <ku>3</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>21.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>10</mcrd081>
+    <ku>4</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>23.2</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>10</mcrd081>
+    <ku>5</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>10.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>10</mcrd081>
+    <ku>6</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>8.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>10</mcrd081>
+    <ku>7</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>19.5</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>10</mcrd081>
+    <ku>8</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>21.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>10</mcrd081>
+    <ku>9</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>10.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>10</mcrd081>
+    <ku>10</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>29.5</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>10</mcrd081>
+    <ku>12</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>21.2</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>10</mcrd081>
+    <ku>13</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>11.1</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>10</mcrd081>
+    <ku>14</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>26.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>10</mcrd081>
+    <ku>15</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>6.9</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>10</mcrd081>
+    <ku>16</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>17.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>10</mcrd081>
+    <ku>17</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>13.9</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>10</mcrd081>
+    <ku>18</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>10.9</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>10</mcrd081>
+    <ku>19</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>19</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>10</mcrd081>
+    <ku>20</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>14.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>10</mcrd081>
+    <ku>21</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>10.5</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>10</mcrd081>
+    <ku>22</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>18.3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>10</mcrd081>
+    <ku>23</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>20.7</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>10</mcrd081>
+    <ku>25</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>16.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>10</mcrd081>
+    <ku>24</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>19.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>10</mcrd081>
+    <ku>26</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>18</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>10</mcrd081>
+    <mcrk110>NULL</mcrk110>
+    <tzep>PCCP_</tzep>
+    <value>15.3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>10</mcrd081>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>17</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>12</mcrd081>
+    <ku>1</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>20.5</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>12</mcrd081>
+    <ku>2</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>4.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>12</mcrd081>
+    <ku>3</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>11.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>12</mcrd081>
+    <ku>4</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>7.1</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>12</mcrd081>
+    <ku>5</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>5.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>12</mcrd081>
+    <ku>6</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>10.2</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>12</mcrd081>
+    <ku>7</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>12.5</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>12</mcrd081>
+    <ku>8</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>13.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>12</mcrd081>
+    <ku>9</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>8.1</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>12</mcrd081>
+    <ku>10</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>11.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>12</mcrd081>
+    <ku>12</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>10.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>12</mcrd081>
+    <ku>13</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>10.9</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>12</mcrd081>
+    <ku>14</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>6.9</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>12</mcrd081>
+    <ku>15</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>1.5</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>12</mcrd081>
+    <ku>16</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>5.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>12</mcrd081>
+    <ku>17</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>5.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>12</mcrd081>
+    <ku>18</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>4.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>12</mcrd081>
+    <ku>19</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>6.1</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>12</mcrd081>
+    <ku>20</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>7.5</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>12</mcrd081>
+    <ku>21</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>4.3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>12</mcrd081>
+    <ku>22</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>12.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>12</mcrd081>
+    <ku>23</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>13.1</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>12</mcrd081>
+    <ku>25</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>4.9</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>12</mcrd081>
+    <ku>24</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>15.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>12</mcrd081>
+    <ku>26</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>9.3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>12</mcrd081>
+    <mcrk110>NULL</mcrk110>
+    <tzep>PCCP_</tzep>
+    <value>6.5</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>12</mcrd081>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>9.1</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>03</mcrd081>
+    <ku>1</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>-10.1</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>03</mcrd081>
+    <ku>2</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>-2.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>03</mcrd081>
+    <ku>3</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>-9.2</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>03</mcrd081>
+    <ku>4</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>0.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>03</mcrd081>
+    <ku>5</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>-3.2</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>03</mcrd081>
+    <ku>6</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>-3.3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>03</mcrd081>
+    <ku>7</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>-4.7</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>03</mcrd081>
+    <ku>8</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>-3.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>03</mcrd081>
+    <ku>9</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>3.3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>03</mcrd081>
+    <ku>10</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>-7.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>03</mcrd081>
+    <ku>12</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>-7.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>03</mcrd081>
+    <ku>13</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>1.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>03</mcrd081>
+    <ku>14</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>-1.7</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>03</mcrd081>
+    <ku>15</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>-7.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>03</mcrd081>
+    <ku>16</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>-1.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>03</mcrd081>
+    <ku>17</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>-5</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>03</mcrd081>
+    <ku>18</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>-3.7</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>03</mcrd081>
+    <ku>19</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>03</mcrd081>
+    <ku>20</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>1.3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>03</mcrd081>
+    <ku>21</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>-10.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>03</mcrd081>
+    <ku>22</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>0.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>03</mcrd081>
+    <ku>23</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>-3.3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>03</mcrd081>
+    <ku>25</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>1.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>03</mcrd081>
+    <ku>24</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>-2.2</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>03</mcrd081>
+    <ku>26</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>-8.9</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>03</mcrd081>
+    <mcrk110>NULL</mcrk110>
+    <tzep>PCCP_</tzep>
+    <value>-4.5</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>03</mcrd081>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>-3.5</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>04</mcrd081>
+    <ku>1</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>4.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>04</mcrd081>
+    <ku>2</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>6.9</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>04</mcrd081>
+    <ku>3</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>5.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>04</mcrd081>
+    <ku>4</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>14.3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>04</mcrd081>
+    <ku>5</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>7.5</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>04</mcrd081>
+    <ku>6</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>6.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>04</mcrd081>
+    <ku>7</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>6.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>04</mcrd081>
+    <ku>8</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>7.7</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>04</mcrd081>
+    <ku>9</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>8.1</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>04</mcrd081>
+    <ku>10</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>16.3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>04</mcrd081>
+    <ku>12</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>11.5</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>04</mcrd081>
+    <ku>13</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>5.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>04</mcrd081>
+    <ku>14</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>10.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>04</mcrd081>
+    <ku>15</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>15.3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>04</mcrd081>
+    <ku>16</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>14</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>04</mcrd081>
+    <ku>17</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>7.3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>04</mcrd081>
+    <ku>18</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>6.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>04</mcrd081>
+    <ku>19</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>13.9</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>04</mcrd081>
+    <ku>20</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>0.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>04</mcrd081>
+    <ku>21</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>24.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>04</mcrd081>
+    <ku>22</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>7.5</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>04</mcrd081>
+    <ku>23</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>18.5</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>04</mcrd081>
+    <ku>25</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>5</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>04</mcrd081>
+    <ku>24</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>8.1</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>04</mcrd081>
+    <ku>26</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>12.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>04</mcrd081>
+    <mcrk110>NULL</mcrk110>
+    <tzep>PCCP_</tzep>
+    <value>23.2</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>04</mcrd081>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>9.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>11</mcrd081>
+    <ku>1</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>7</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>11</mcrd081>
+    <ku>2</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>7.9</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>11</mcrd081>
+    <ku>3</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>6.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>11</mcrd081>
+    <ku>4</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>6.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>11</mcrd081>
+    <ku>5</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>10.2</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>11</mcrd081>
+    <ku>6</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>8.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>11</mcrd081>
+    <ku>7</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>13.7</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>11</mcrd081>
+    <ku>8</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>12</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>11</mcrd081>
+    <ku>9</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>13.9</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>11</mcrd081>
+    <ku>10</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>11</mcrd081>
+    <ku>12</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>5.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>11</mcrd081>
+    <ku>13</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>8.3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>11</mcrd081>
+    <ku>14</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>9.3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>11</mcrd081>
+    <ku>15</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>11.9</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>11</mcrd081>
+    <ku>16</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>8.5</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>11</mcrd081>
+    <ku>17</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>11.1</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>11</mcrd081>
+    <ku>18</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>14.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>11</mcrd081>
+    <ku>19</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>7.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>11</mcrd081>
+    <ku>20</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>9.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>11</mcrd081>
+    <ku>21</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>7</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>11</mcrd081>
+    <ku>22</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>11.1</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>11</mcrd081>
+    <ku>23</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>11.2</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>11</mcrd081>
+    <ku>25</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>4.2</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>11</mcrd081>
+    <ku>24</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>6.3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>11</mcrd081>
+    <ku>26</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>10.2</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>11</mcrd081>
+    <mcrk110>NULL</mcrk110>
+    <tzep>PCCP_</tzep>
+    <value>6.1</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>11</mcrd081>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>9</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <ku>1</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>8.7</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <ku>2</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>9.9</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <ku>3</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>9.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <ku>4</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>11.2</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <ku>5</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>9</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <ku>6</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>10.1</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <ku>7</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>8.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <ku>8</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>10.2</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <ku>9</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>10.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <ku>10</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>10.5</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <ku>12</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>10.9</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <ku>13</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>8.9</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <ku>14</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>10.3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <ku>15</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>10.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <ku>16</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>10.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <ku>17</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>9.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <ku>18</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>11</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <ku>19</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>9.5</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <ku>20</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>10.1</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <ku>21</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>10</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <ku>22</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>9.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <ku>23</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>11.7</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <ku>25</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>8.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <ku>24</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>10.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <ku>26</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>9.7</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <mcrk110>NULL</mcrk110>
+    <tzep>PCCP_</tzep>
+    <value>9.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>10</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>02</mcrd081>
+    <ku>1</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>9.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>02</mcrd081>
+    <ku>2</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>10.1</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>02</mcrd081>
+    <ku>3</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>8.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>02</mcrd081>
+    <ku>4</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>10.3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>02</mcrd081>
+    <ku>5</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>10.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>02</mcrd081>
+    <ku>6</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>10</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>02</mcrd081>
+    <ku>7</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>02</mcrd081>
+    <ku>8</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>9.5</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>02</mcrd081>
+    <ku>9</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>10.3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>02</mcrd081>
+    <ku>10</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>9.2</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>02</mcrd081>
+    <ku>12</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>10.1</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>02</mcrd081>
+    <ku>13</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>02</mcrd081>
+    <ku>14</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>8.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>02</mcrd081>
+    <ku>15</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>10.3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>02</mcrd081>
+    <ku>16</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>8.1</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>02</mcrd081>
+    <ku>17</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>8.7</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>02</mcrd081>
+    <ku>18</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>9</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>02</mcrd081>
+    <ku>19</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>10.3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>02</mcrd081>
+    <ku>20</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>11.5</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>02</mcrd081>
+    <ku>21</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>8.9</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>02</mcrd081>
+    <ku>22</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>11.7</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>02</mcrd081>
+    <ku>23</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>9.9</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>02</mcrd081>
+    <ku>25</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>8.7</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>02</mcrd081>
+    <ku>24</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>10.1</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>02</mcrd081>
+    <ku>26</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>9.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>02</mcrd081>
+    <mcrk110>NULL</mcrk110>
+    <tzep>PCCP_</tzep>
+    <value>9.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>02</mcrd081>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>9.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>01</mcrd081>
+    <ku>1</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>11.5</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>01</mcrd081>
+    <ku>2</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>13.5</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>01</mcrd081>
+    <ku>3</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>13.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>01</mcrd081>
+    <ku>4</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>12.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>01</mcrd081>
+    <ku>5</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>12.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>01</mcrd081>
+    <ku>6</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>13.1</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>01</mcrd081>
+    <ku>7</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>11.7</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>01</mcrd081>
+    <ku>8</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>12.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>01</mcrd081>
+    <ku>9</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>12.3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>01</mcrd081>
+    <ku>10</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>11.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>01</mcrd081>
+    <ku>12</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>14.9</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>01</mcrd081>
+    <ku>13</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>10.9</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>01</mcrd081>
+    <ku>14</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>13</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>01</mcrd081>
+    <ku>15</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>13.2</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>01</mcrd081>
+    <ku>16</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>12.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>01</mcrd081>
+    <ku>17</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>12.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>01</mcrd081>
+    <ku>18</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>14.5</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>01</mcrd081>
+    <ku>19</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>10.2</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>01</mcrd081>
+    <ku>20</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>14.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>01</mcrd081>
+    <ku>21</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>11.2</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>01</mcrd081>
+    <ku>22</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>11.1</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>01</mcrd081>
+    <ku>23</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>12.9</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>01</mcrd081>
+    <ku>25</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>10.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>01</mcrd081>
+    <ku>24</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>14</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>01</mcrd081>
+    <ku>26</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>13.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>01</mcrd081>
+    <mcrk110>NULL</mcrk110>
+    <tzep>PCCP_</tzep>
+    <value>10.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>01</mcrd081>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>12.7</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>06</mcrd081>
+    <ku>1</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>5.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>06</mcrd081>
+    <ku>2</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>4.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>06</mcrd081>
+    <ku>3</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>6.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>06</mcrd081>
+    <ku>4</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>9.3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>06</mcrd081>
+    <ku>5</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>5.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>06</mcrd081>
+    <ku>6</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>9.5</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>06</mcrd081>
+    <ku>7</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>3.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>06</mcrd081>
+    <ku>8</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>7.3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>06</mcrd081>
+    <ku>9</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>6.5</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>06</mcrd081>
+    <ku>10</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>2.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>06</mcrd081>
+    <ku>12</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>5.2</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>06</mcrd081>
+    <ku>13</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>5</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>06</mcrd081>
+    <ku>14</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>06</mcrd081>
+    <ku>15</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>6.5</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>06</mcrd081>
+    <ku>16</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>3.1</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>06</mcrd081>
+    <ku>17</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>3.5</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>06</mcrd081>
+    <ku>18</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>5.7</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>06</mcrd081>
+    <ku>19</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>6.3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>06</mcrd081>
+    <ku>20</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>5</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>06</mcrd081>
+    <ku>21</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>6.1</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>06</mcrd081>
+    <ku>22</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>4.2</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>06</mcrd081>
+    <ku>23</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>6.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>06</mcrd081>
+    <ku>25</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>6.7</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>06</mcrd081>
+    <ku>24</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>7.3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>06</mcrd081>
+    <ku>26</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>4.7</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>06</mcrd081>
+    <mcrk110>NULL</mcrk110>
+    <tzep>PCCP_</tzep>
+    <value>6.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>06</mcrd081>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>6.1</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>07</mcrd081>
+    <ku>1</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>11.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>07</mcrd081>
+    <ku>2</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>13.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>07</mcrd081>
+    <ku>3</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>11.3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>07</mcrd081>
+    <ku>4</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>12.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>07</mcrd081>
+    <ku>5</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>8.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>07</mcrd081>
+    <ku>6</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>11.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>07</mcrd081>
+    <ku>7</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>10.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>07</mcrd081>
+    <ku>8</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>10.9</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>07</mcrd081>
+    <ku>9</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>14</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>07</mcrd081>
+    <ku>10</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>20.5</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>07</mcrd081>
+    <ku>12</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>11.1</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>07</mcrd081>
+    <ku>13</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>12.5</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>07</mcrd081>
+    <ku>14</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>12</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>07</mcrd081>
+    <ku>15</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>13.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>07</mcrd081>
+    <ku>16</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>19.1</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>07</mcrd081>
+    <ku>17</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>12</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>07</mcrd081>
+    <ku>18</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>17</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>07</mcrd081>
+    <ku>19</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>10</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>07</mcrd081>
+    <ku>20</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>7.7</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>07</mcrd081>
+    <ku>21</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>14.5</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>07</mcrd081>
+    <ku>22</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>12.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>07</mcrd081>
+    <ku>23</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>13.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>07</mcrd081>
+    <ku>25</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>6.1</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>07</mcrd081>
+    <ku>24</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>13.3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>07</mcrd081>
+    <ku>26</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>3.3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>07</mcrd081>
+    <mcrk110>NULL</mcrk110>
+    <tzep>PCCP_</tzep>
+    <value>10</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>07</mcrd081>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>11.1</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>09</mcrd081>
+    <ku>1</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>1.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>09</mcrd081>
+    <ku>2</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>2.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>09</mcrd081>
+    <ku>3</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>3.9</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>09</mcrd081>
+    <ku>4</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>7.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>09</mcrd081>
+    <ku>5</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>1.5</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>09</mcrd081>
+    <ku>6</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>6.2</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>09</mcrd081>
+    <ku>7</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>2.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>09</mcrd081>
+    <ku>8</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>5.1</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>09</mcrd081>
+    <ku>9</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>5.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>09</mcrd081>
+    <ku>10</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>3.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>09</mcrd081>
+    <ku>12</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>8.2</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>09</mcrd081>
+    <ku>13</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>4.5</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>09</mcrd081>
+    <ku>14</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>8.3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>09</mcrd081>
+    <ku>15</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>5.1</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>09</mcrd081>
+    <ku>16</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>3.5</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>09</mcrd081>
+    <ku>17</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>8.2</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>09</mcrd081>
+    <ku>18</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>4.7</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>09</mcrd081>
+    <ku>19</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>6.9</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>09</mcrd081>
+    <ku>20</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>6.1</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>09</mcrd081>
+    <ku>21</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>2.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>09</mcrd081>
+    <ku>22</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>6.2</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>09</mcrd081>
+    <ku>23</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>6.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>09</mcrd081>
+    <ku>25</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>11.2</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>09</mcrd081>
+    <ku>24</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>-6.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>09</mcrd081>
+    <ku>26</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>3.2</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>09</mcrd081>
+    <mcrk110>NULL</mcrk110>
+    <tzep>PCCP_</tzep>
+    <value>3.3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>09</mcrd081>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>5</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>08</mcrd081>
+    <ku>1</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>6.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>08</mcrd081>
+    <ku>2</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>9.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>08</mcrd081>
+    <ku>3</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>4.9</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>08</mcrd081>
+    <ku>4</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>9.5</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>08</mcrd081>
+    <ku>5</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>8.5</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>08</mcrd081>
+    <ku>6</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>7</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>08</mcrd081>
+    <ku>7</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>5.3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>08</mcrd081>
+    <ku>8</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>8.9</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>08</mcrd081>
+    <ku>9</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>7.5</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>08</mcrd081>
+    <ku>10</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>8.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>08</mcrd081>
+    <ku>12</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>6.3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>08</mcrd081>
+    <ku>13</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>5.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>08</mcrd081>
+    <ku>14</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>7.3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>08</mcrd081>
+    <ku>15</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>8.1</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>08</mcrd081>
+    <ku>16</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>5.1</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>08</mcrd081>
+    <ku>17</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>5.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>08</mcrd081>
+    <ku>18</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>7.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>08</mcrd081>
+    <ku>19</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>6.5</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс споживчих цін </txt>
+    <txten>Consumer price indices </txten>
+    <id_api>prices_price_cpi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>08</mcrd081>
+    <ku>20</ku>
+    <mcrk110>NULL</mcrk110>
+    <tzep>DTPY_</tzep>
+    <value>7.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс цін виробників промислової продукції </txt>
+    <txten>Industrial Producer Price Indices</txten>
+    <id_api>prices_price_ppi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <mcrk110>B3</mcrk110>
+    <tzep>PCPY_</tzep>
+    <value>108.1</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс цін виробників промислової продукції </txt>
+    <txten>Industrial Producer Price Indices</txten>
+    <id_api>prices_price_ppi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <mcrk110>B3</mcrk110>
+    <tzep>DTDPY_</tzep>
+    <value>5.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс цін виробників промислової продукції </txt>
+    <txten>Industrial Producer Price Indices</txten>
+    <id_api>prices_price_ppi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <mcrk110>C2</mcrk110>
+    <tzep>PCPY_</tzep>
+    <value>2.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс цін виробників промислової продукції </txt>
+    <txten>Industrial Producer Price Indices</txten>
+    <id_api>prices_price_ppi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <mcrk110>C2</mcrk110>
+    <tzep>DTDPY_</tzep>
+    <value>3.7</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс цін виробників промислової продукції </txt>
+    <txten>Industrial Producer Price Indices</txten>
+    <id_api>prices_price_ppi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <mcrk110>C1</mcrk110>
+    <tzep>PCPY_</tzep>
+    <value>25.3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс цін виробників промислової продукції </txt>
+    <txten>Industrial Producer Price Indices</txten>
+    <id_api>prices_price_ppi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <mcrk110>C1</mcrk110>
+    <tzep>DTDPY_</tzep>
+    <value>16.9</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс цін виробників промислової продукції </txt>
+    <txten>Industrial Producer Price Indices</txten>
+    <id_api>prices_price_ppi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <mcrk110>C94</mcrk110>
+    <tzep>PCPY_</tzep>
+    <value>7.3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс цін виробників промислової продукції </txt>
+    <txten>Industrial Producer Price Indices</txten>
+    <id_api>prices_price_ppi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <mcrk110>C94</mcrk110>
+    <tzep>DTDPY_</tzep>
+    <value>17.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс цін виробників промислової продукції </txt>
+    <txten>Industrial Producer Price Indices</txten>
+    <id_api>prices_price_ppi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <mcrk110>C7</mcrk110>
+    <tzep>PCPY_</tzep>
+    <value>11.7</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс цін виробників промислової продукції </txt>
+    <txten>Industrial Producer Price Indices</txten>
+    <id_api>prices_price_ppi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <mcrk110>C7</mcrk110>
+    <tzep>DTDPY_</tzep>
+    <value>22.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс цін виробників промислової продукції </txt>
+    <txten>Industrial Producer Price Indices</txten>
+    <id_api>prices_price_ppi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <mcrk110>C3</mcrk110>
+    <tzep>PCPY_</tzep>
+    <value>18</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс цін виробників промислової продукції </txt>
+    <txten>Industrial Producer Price Indices</txten>
+    <id_api>prices_price_ppi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <mcrk110>C3</mcrk110>
+    <tzep>DTDPY_</tzep>
+    <value>25</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс цін виробників промислової продукції </txt>
+    <txten>Industrial Producer Price Indices</txten>
+    <id_api>prices_price_ppi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <mcrk110>C6</mcrk110>
+    <tzep>PCPY_</tzep>
+    <value>13.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс цін виробників промислової продукції </txt>
+    <txten>Industrial Producer Price Indices</txten>
+    <id_api>prices_price_ppi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <mcrk110>C6</mcrk110>
+    <tzep>DTDPY_</tzep>
+    <value>14.1</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс цін виробників промислової продукції </txt>
+    <txten>Industrial Producer Price Indices</txten>
+    <id_api>prices_price_ppi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <mcrk110>C93</mcrk110>
+    <tzep>PCPY_</tzep>
+    <value>12.1</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс цін виробників промислової продукції </txt>
+    <txten>Industrial Producer Price Indices</txten>
+    <id_api>prices_price_ppi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <mcrk110>C93</mcrk110>
+    <tzep>DTDPY_</tzep>
+    <value>18.7</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс цін виробників промислової продукції </txt>
+    <txten>Industrial Producer Price Indices</txten>
+    <id_api>prices_price_ppi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <mcrk110>C4</mcrk110>
+    <tzep>PCPY_</tzep>
+    <value>81.3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс цін виробників промислової продукції </txt>
+    <txten>Industrial Producer Price Indices</txten>
+    <id_api>prices_price_ppi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <mcrk110>C4</mcrk110>
+    <tzep>DTDPY_</tzep>
+    <value>117.3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс цін виробників промислової продукції </txt>
+    <txten>Industrial Producer Price Indices</txten>
+    <id_api>prices_price_ppi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <mcrk110>D</mcrk110>
+    <tzep>PCPY_</tzep>
+    <value>52</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс цін виробників промислової продукції </txt>
+    <txten>Industrial Producer Price Indices</txten>
+    <id_api>prices_price_ppi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <mcrk110>D</mcrk110>
+    <tzep>DTDPY_</tzep>
+    <value>185.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс цін виробників промислової продукції </txt>
+    <txten>Industrial Producer Price Indices</txten>
+    <id_api>prices_price_ppi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <mcrk110>C91</mcrk110>
+    <tzep>PCPY_</tzep>
+    <value>3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс цін виробників промислової продукції </txt>
+    <txten>Industrial Producer Price Indices</txten>
+    <id_api>prices_price_ppi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <mcrk110>C91</mcrk110>
+    <tzep>DTDPY_</tzep>
+    <value>3.1</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс цін виробників промислової продукції </txt>
+    <txten>Industrial Producer Price Indices</txten>
+    <id_api>prices_price_ppi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <mcrk110>C5</mcrk110>
+    <tzep>PCPY_</tzep>
+    <value>53.2</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс цін виробників промислової продукції </txt>
+    <txten>Industrial Producer Price Indices</txten>
+    <id_api>prices_price_ppi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <mcrk110>C5</mcrk110>
+    <tzep>DTDPY_</tzep>
+    <value>70.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс цін виробників промислової продукції </txt>
+    <txten>Industrial Producer Price Indices</txten>
+    <id_api>prices_price_ppi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <mcrk110>C92</mcrk110>
+    <tzep>PCPY_</tzep>
+    <value>12.1</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс цін виробників промислової продукції </txt>
+    <txten>Industrial Producer Price Indices</txten>
+    <id_api>prices_price_ppi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <mcrk110>C92</mcrk110>
+    <tzep>DTDPY_</tzep>
+    <value>14.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс цін виробників промислової продукції </txt>
+    <txten>Industrial Producer Price Indices</txten>
+    <id_api>prices_price_ppi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <mcrk110>B2</mcrk110>
+    <tzep>PCPY_</tzep>
+    <value>99.4</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс цін виробників промислової продукції </txt>
+    <txten>Industrial Producer Price Indices</txten>
+    <id_api>prices_price_ppi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <mcrk110>B2</mcrk110>
+    <tzep>DTDPY_</tzep>
+    <value>79.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс цін виробників промислової продукції </txt>
+    <txten>Industrial Producer Price Indices</txten>
+    <id_api>prices_price_ppi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <mcrk110>BCDE</mcrk110>
+    <tzep>PCPY_</tzep>
+    <value>40.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс цін виробників промислової продукції </txt>
+    <txten>Industrial Producer Price Indices</txten>
+    <id_api>prices_price_ppi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <mcrk110>BCDE</mcrk110>
+    <tzep>DTDPY_</tzep>
+    <value>62.2</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс цін виробників промислової продукції </txt>
+    <txten>Industrial Producer Price Indices</txten>
+    <id_api>prices_price_ppi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <mcrk110>C8</mcrk110>
+    <tzep>PCPY_</tzep>
+    <value>56.3</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс цін виробників промислової продукції </txt>
+    <txten>Industrial Producer Price Indices</txten>
+    <id_api>prices_price_ppi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <mcrk110>C8</mcrk110>
+    <tzep>DTDPY_</tzep>
+    <value>41.9</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс цін виробників промислової продукції </txt>
+    <txten>Industrial Producer Price Indices</txten>
+    <id_api>prices_price_ppi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <mcrk110>B1</mcrk110>
+    <tzep>PCPY_</tzep>
+    <value>33.8</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс цін виробників промислової продукції </txt>
+    <txten>Industrial Producer Price Indices</txten>
+    <id_api>prices_price_ppi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <mcrk110>B1</mcrk110>
+    <tzep>DTDPY_</tzep>
+    <value>150.6</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс цін виробників промислової продукції </txt>
+    <txten>Industrial Producer Price Indices</txten>
+    <id_api>prices_price_ppi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <mcrk110>C</mcrk110>
+    <tzep>PCPY_</tzep>
+    <value>29.9</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс цін виробників промислової продукції </txt>
+    <txten>Industrial Producer Price Indices</txten>
+    <id_api>prices_price_ppi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <mcrk110>C</mcrk110>
+    <tzep>DTDPY_</tzep>
+    <value>28.1</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс цін виробників промислової продукції </txt>
+    <txten>Industrial Producer Price Indices</txten>
+    <id_api>prices_price_ppi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <mcrk110>B</mcrk110>
+    <tzep>PCPY_</tzep>
+    <value>87.1</value>
+  </inflation>
+  <inflation>
+    <dt>20220101</dt>
+    <txt>Індекс цін виробників промислової продукції </txt>
+    <txten>Industrial Producer Price Indices</txten>
+    <id_api>prices_price_ppi_</id_api>
+    <leveli>1</leveli>
+    <freq>Y</freq>
+    <mcrd081>Total</mcrd081>
+    <mcrk110>B</mcrk110>
+    <tzep>DTDPY_</tzep>
+    <value>56.5</value>
+  </inflation>
+</indicators>
