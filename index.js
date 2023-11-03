@@ -26,7 +26,7 @@ const requestListener = function (req, res) {
             }
 
 
-            const transformedData = {
+            let transformedData = {
                 data: {
                     value: [],
                 },
@@ -34,7 +34,7 @@ const requestListener = function (req, res) {
 
             (result.indicators.inflation || []).forEach((item) => {
                 const ku = item.ku ? item.ku[0] : null;
-                const value = item.value ? parseFloat(item.value[0]) : null;
+                let value = item.value ? parseFloat(item.value[0]) : null;
 
                 if (ku === '13' && value && value > 5) {
                     transformedData.data.value.push(item.value[0]);
@@ -55,6 +55,3 @@ const server = http.createServer(requestListener);
 server.listen(port, host, () => {
     console.log(`Server is running on http://${host}:${port}`);
 });
-
-
-
