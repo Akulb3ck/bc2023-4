@@ -8,7 +8,7 @@ const builder = new xml2js.Builder();
 const host = 'localhost';
 const port = 8000;
 
-const requestListener = function (req, res) {
+requestListener = function (req, res) {
     fs.readFile('data.xml', 'utf-8', (err, data) => {
         if (err) {
             console.error(err);
