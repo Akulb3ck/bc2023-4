@@ -1,4 +1,3 @@
-const { readFileSync } = require('fs');
 const http = require('http');
 const fs = require('fs').promises;
 const xml2js = require('xml2js');
@@ -11,7 +10,7 @@ const port = 8000;
 
 readFileAsync = async (filePath) => {
     try {
-        return fs.readFile(filePath, 'utf-8');
+        return await fs.readFile(filePath, 'utf-8');
     } catch (error) {
         console.error(error);
         throw new Error('Internal Server Error');
@@ -33,8 +32,8 @@ parseXmlAsync = async (xmlString) => {
 
 requestListener = async (req, res) => {
     try {
-        const data = readFileSync('data.xml');
-        let result = parseXmlSync(data);
+        const data = await readFileAsync('data.xml');
+        let result = await parseXmlAsync(data);
 
         const transformedData = {
             data: {
