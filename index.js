@@ -8,7 +8,7 @@ const builder = new xml2js.Builder();
 const host = 'localhost';
 const port = 8000;
 
-const readFileAsync = async (filePath) => {
+readFileAsync = async (filePath) => {
     try {
         return await fs.readFile(filePath, 'utf-8');
     } catch (error) {
@@ -17,7 +17,7 @@ const readFileAsync = async (filePath) => {
     }
 };
 
-const parseXmlAsync = async (xmlString) => {
+parseXmlAsync = async (xmlString) => {
     return new Promise((resolve, reject) => {
         parser.parseString(xmlString, (err, result) => {
             if (err) {
@@ -30,10 +30,10 @@ const parseXmlAsync = async (xmlString) => {
     });
 };
 
-const requestListener = async (req, res) => {
+requestListener = async (req, res) => {
     try {
         const data = await readFileAsync('data.xml');
-        const result = await parseXmlAsync(data);
+        let result = await parseXmlAsync(data);
 
         const transformedData = {
             data: {
@@ -43,7 +43,7 @@ const requestListener = async (req, res) => {
 
         (result.indicators.inflation || []).forEach((item) => {
             const ku = item.ku ? item.ku[0] : null;
-            const value = item.value ? parseFloat(item.value[0]) : null;
+            let value = item.value ? parseFloat(item.value[0]) : null;
 
             if (ku === '13' && value && value > 5) {
                 transformedData.data.value.push(item.value[0]);
